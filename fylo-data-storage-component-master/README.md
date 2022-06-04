@@ -27,7 +27,7 @@ Users must be able to:
 
 ### Screenshot
 
-![](./design/screenshot.jpg)
+![](./design/desktop-preview.jpg)
 
 
 
